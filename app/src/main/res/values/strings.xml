@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="hello">hello</string>
+    <string name="black">black</string>
+    <string name="purple">purple</string>
+    <string name="dark_background">dark_background</string>
+    <string name="red">red</string>
+    <string name="check_here">check here</string>
+</resources>
