@@ -10,6 +10,7 @@
         android:layout_height="0dp"
         android:background="@color/grey"
         android:text="@string/hello"
+        android:gravity="center"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@id/button"/>
